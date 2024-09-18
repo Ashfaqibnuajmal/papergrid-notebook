@@ -1,0 +1,52 @@
+.foot{
+    color: gray;
+    text-decoration: underline;
+    
+}
+.foot:hover{
+    color: white;
+}
+.insta:hover{
+    font-size: 30px;
+}
+.foot-2{
+    box-sizing: border-box;
+    color: white;
+    display: flex;
+    font-family:'-apple-system, BlinkMacSystemFont', "Sego";
+    font-size:11px;
+    font-weight: 400;
+    letter-spacing: 0.77px;
+    line-height: 18px;
+    margin-top: 16.5px;
+
+}
+.foot-2{
+    display: flex;
+    justify-content: center;
+    font-size: 12.1px;
+    font-weight: 400;
+    letter-spacing: 0.77px;
+    word-spacing: 3px;
+    line-height:  19.8px;
+    font-family: '-apple-system, BlinkMacSystemFont', "Segoe UI", "Roboto", "Oxygen",;
+    flex-wrap: wrap;
+    text-decoration: none;
+    gap: 20px;
+
+}
+.end{
+    color: gray;
+    text-decoration: none;
+}
+.end:hover{
+    color: white;
+    cursor: pointer;
+   
+    text-decoration: underline;
+}
+.headline:hover{
+    font-size: 102%;
+    background-color: rgb(61, 59, 59);
+}
+
